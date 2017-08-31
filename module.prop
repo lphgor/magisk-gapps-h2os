@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=magisk-gapps-h2os
+name=MagiskGAPPS For H2OS
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Jarek
+description=GApps with magic features. Extract and modify from OxygenOS(7.1.x) biuld-in GAPPS.
 template=4
