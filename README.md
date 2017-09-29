@@ -7,7 +7,7 @@ Core syncing APKs (i.e., Google Play Services, SetupWizard, Google Play Store, G
 
 ***
 # Notice
-1. Based on Magisk v13 or newer
+1. Based on Magisk v14 or newer
 2. Testd on OnePlus 3 with TWRP 3.1.1.x
 3. Root is not required
 
