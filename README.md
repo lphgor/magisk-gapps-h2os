@@ -17,6 +17,6 @@ Core syncing APKs (i.e., Google, Google Play Services, SetupWizard, Google Play 
 
 # Credit & Support
 
-* Copyright (C) 2017 simonsmh <chjun90@gmail.com>
+* Copyright (C) 2017 wuchjun <chjun90@gmail.com>
 * Any issue or pull request is welcomed.
 * Star this module at [GitHub](https://github.com/Magisk-Modules-Repo/magisk-gapps-h2os)
